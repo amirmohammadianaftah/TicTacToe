@@ -1,6 +1,6 @@
 # TicTacToe
 
- [Demo Project](https://amirmohammadianaftah.github.io/creditcard/)
+ [Demo Project](https://amirmohammadianaftah.github.io/TicTacToe/)
   - 
 - Developed by Amir Mohammadian
 - Created - 2024-11-20
